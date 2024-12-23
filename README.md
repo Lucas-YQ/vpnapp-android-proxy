@@ -4,14 +4,12 @@ This repository contains a prototype of an Android Proxy Service built using Xra
 
 ## Key Features:
 
-* Proxy Routing: Routes all or selected network traffic through a proxy.
+* Proxy Routing: Routes all network traffic through a proxy.
 * Xray-Core Integration: Utilizes Xray-Core for advanced proxy and tunneling functionality.
 * tun2proxy Support: Leverages tun2proxy for handling network interfaces and tunneling.
-* Prototype Stage: Currently in development, showcasing a proof of concept for Android-based proxy services.
 
 ## Prerequisites:
 
-Android device or emulator with [Android version] or higher.
 Dependencies: Xray-Core, tun2proxy.
 
 ## Usage:
